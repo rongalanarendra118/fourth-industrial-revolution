@@ -1,0 +1,31 @@
+# fourth-industrial-revolution
+ABSTRACT
+Digital transformation in the manufacturing industry, termed Industry 4.0 has become of strategic importance in a 
+highly competitive space. This paper talks about the digital transformation of Volvo Construction Equipment (VCE) 
+and how it brought about a seamless physical-digital integration of humans, processes, systems and machines 
+across geographies. 
+The scope was to have a common blueprint for digitalization of the production flow for 10 VCE plants spread across 
+APAC, Europe and Americas. This was a high visibility, high impact initiative and agile methodology was the 
+cornerstone of the program. This implementation resulted in huge improvements in the production flow in terms of 
+cost, time and visibility. 
+The paper highlights the business value the program created for the organisation by leveraging the power of 
+Industrial Internet of Things (IIOT) integrated with SAP Manufacturing Integration and Intelligence (MII). Having a 
+robust integrated end-to-end system led to the reduction in the “Manufacturing Execution Systems” maintenance 
+cost by more than 50%. One of the key challenges of a Just-in-Time/Just-in-Sequence production line is the dynamic 
+nature of the shop-floor layout. This program achieved a shortened lead time for adaptation to shop-floor layout 
+changes from 4 weeks to 3 days. Implementation of shop floor visualisation and data analytics led to improved 
+operational efficiency.
+We were one of the early adopters to implement an integrated Industrial IOT with an ERP system. In addition, a 
+holistic approach was taken towards providing value to the Business by developing a Business Continuity Plan for 
+all the Volvo CE plants.
+INTRODUCTION
+In order to be a proactive, lean and cost efficient manufacturing organisation, there are a few key objectives to be 
+met, like having the right information available for the shop floor operations at the right time, using automation and 
+production equipment integration for swift and smooth data flow, real-time information sharing across plant 
+operations such as production, quality, material supply and plant maintenance. The improved visibility and 
+traceability of manufacturing process data ensures that right decisions are made resulting in operational efficiency.
+These key objectives are formalised into the six design principles of Industry 4.0 which are Interoperability, 
+Virtualisation, Decentralisation, Real-Time Capability, Service Orientation and Modularity.
+[3]
+While the Internet of Things (IOT) had been around for over a decade, large organisations could not exploit its 
+potential to a substantial level as it did not address all the six design principles. 
