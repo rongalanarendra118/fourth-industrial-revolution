@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "world-economicforum-ny9j",
+  "private_key_id": "d47838e265524c9202cd5feaff5cb3b37ef57ca5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDeKuG/0PFpZOCc\nkgLwxsIv90aesD8VF6/r4Ewjfg8icM0CvHANlwXaAehu2IWK3pzS6dvA5wVSYYC3\nejylbeKztMOecrX1WGat7mcqaUJ8FJpJ1L+dvUPyr8cIAxSMAuLdeCCTM762XRa+\n+5EI8sOTRPgAlJ2SmLhSq2IFYDUFRXmQDYuW5QvJ8jtAv51e+xPmar3UlTxYWlIn\neHZTgYSrzgAF4RDINSH9QgyVM1QqKrMOifs3j3JeIwIm/OA9Qx3hIm3ZKNxbaRVf\nZwBGAHcPCF9VHlMtOsaqYDZp5OtusVsmYYKUJOwa7NfiiknHR1fFiOFZWK/tiW6n\nVwyvkGZjAgMBAAECggEABYmZFeBd3AwlIxHqm9jAZ1SpAHSRJfPwsRbmnu3Z77hT\nC9HpkxUkErKAeh7QeU0iKImmrhC0C8EdZbVYxKDQCT2ksJLYYTSiXox2KtLz0sbq\nr5NrcUGR638hHVyCSxkZUX7YhQLBqqb4VatMiqYOZOHPsqgBo3FGCt11tH+Y4rg0\nMabUw8RxXkp0YG2gfrzy//DUAsoyynFo9nG6ibppaNIpaKInMoKMVVX5rAx/ohec\nbuO2znFKRhtPe0DnZn2sDJV/EB6YmzSTWm24/Qbur8fJt70vO9bcY8rHvOk+e3nK\nCmHJDWPVyfuTPrKj3wFqTyFUBEZFos0APtVFrfXI7QKBgQD27+os4ynTYuLYlKtk\n5luPHMHotc7jeg0JeWvFYScgqGebltmOkkb5uhYdN2lr2HOR0BKszbIBXmoDy7fR\nGcaKAI1XRMWW9Sk5lG1q/SEbu55i7X8stU1mLEg2+9hrWmc4FFY/ZdO6GePp2IK5\n0pdkdJCD/niZ9NXq5kBj1CWKPwKBgQDmUj66/nQgi3JTuVI3AOYVTLQLo8vR1UJU\nEJh8sBGm0T0jqaHnMLhZVWGIFb/tZfjej2NfUIowmowogPqD6Rj6BIrM00kQTYmp\n9KZ09iMutL2EbrB40gaSnlnkreoeBGsfrJiN/JOdssZyCCq8IK4tX5oTSg+p+xvh\nz70r1mhy3QKBgFAXMFSuuPoesISec5iePkQEh7/6d8e/5kqUXyf9grtM443LN3TO\nbMbCXDnNpxubcKByZBw3+uwGu0vP3yaqvYI0+6K6Y3u6uEw8n+B7iSl9iLl9Xioa\nA6iH5EQxGth20dOWhQK6/Bj4HLvTxVKPwxqJ0/V7q5IDnv44/9lhDWvxAoGANht0\nKTHFzi90OD79FXbclnxif6mHJFBZOK59ZC1ouCvHlS0wn8NOS45HT1TstbSS9pXw\n3l9pV2m3K3zBXWPRPkr64ItySqYshQS4Zhm8wigrrYTjaD7O1Hrm21YP/eVD1TkS\nzahcdVueSwOoJnH2+SnQZF+ttl0Le8z1v+qqtvECgYBBpJ36qenjI8r9IZKVBetn\nXy9fga9ji/7PbQHuX6fdJzfSSDxMfu75GJZ03+OYeZ/oEPOBVWjnsDzhftXsr3Xj\nlo8CJFWtW6VT7H7mmLOQYELFAW4n9PmuovGu2IYpEZlPm03po5lU0N4/7Ujlhyu3\n5LbbOXrYho2/LNf3Oua6Bg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "industrial-revolution@world-economicforum-ny9j.iam.gserviceaccount.com",
+  "client_id": "113866839820488817838",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/industrial-revolution%40world-economicforum-ny9j.iam.gserviceaccount.com"
+}
